@@ -1,0 +1,28 @@
+-- Page Accueil --
+
+
+
+-- Page dévellopement -- (nom à changer)
+
+Rôle de l'entreprise
+
+langages/CMS/modules : sous forme de logo
+
+Les tarifs : installation d'OS, dépannage 60-80€ de l'heure
+développement de database : sur devis
+
+
+
+
+-- Page Support --
+
+consultation en ligne/tel/en personne
+Suivi des produits/base de données
+
+Page Contact
+
+géolocalisation à lustin
+données contact (mail,etc)
+formulaire de contact + captcha
+
+bldvz,vizr
